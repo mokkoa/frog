@@ -1,9 +1,13 @@
 // Your First C++ Program
 
 #include <iostream>
-
-int main() {
-    std::cout << "Hello World!";
-    dhoif
-    return 0;
+int boo()
+{
+std::cout<<"BOO!";
+return 0;
+}
+int main()
+{
+   boo();
+   return;
 }
